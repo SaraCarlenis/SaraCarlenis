@@ -13,4 +13,4 @@
 
 
 ## Vamos construir algo incrível juntos! 
- <a href="https://www.linkedin.com/in/www.linkedin.com/in/sara-hurtado-corteNome fantasia da URL" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+ <a href="https://www.linkedin.com/in/www.linkedin.com/in/sara-hurtado-corte fantasia da URL" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
