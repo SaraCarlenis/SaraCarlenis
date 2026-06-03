@@ -1,7 +1,7 @@
 
    **Olá, pessoal!** 👋 Meu nome é Sara
 
-- Atualmente, estou aprendendo a programar com JavaScript, mas já tenho conhecimentos básicos em Java e Python. 
+- Atualmente, estou aprendendo a programar com Java, mas já tenho conhecimentos básicos em JavaScript e Python. 
 - Sou fluente em português, espanhol e  hoje estou aprendendo inglês. 
 - Moro fora do meu país há 7 anos, o que me proporcionou muitas experiências culturais incríveis e a oportunidade de aprender e crescer em ambientes diversos. 
 - Uma curiosidade sobre mim é que adoro viajar e conhecer culturas diferentes!
