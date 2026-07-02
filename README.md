@@ -4,7 +4,7 @@ Meu nome é **Sara Hurtado** 💜
 - Atualmente aprendendo **Java** com foco em backend.  
 - Conhecimentos básicos em **JavaScript**.  
 - Fluente em **português** e **espanhol**, **inglês** intermediário (B1).  
-- Moro fora do meu país há 8 anos, colecionando experiências culturais incríveis.  
+- ✈️ Moro fora do meu país há 8 anos, o que me trouxe experiências culturais incríveis e muito crescimento pessoal.   
 - 💕 Amo viajar e conhecer novas culturas!  
 
 ---
