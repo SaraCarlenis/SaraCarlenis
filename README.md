@@ -26,25 +26,6 @@ Meu nome é **Sara Hurtado** 💜
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraCarlenis&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraCarlenis&layout=compact&theme=dracula)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraCarlenis&theme=dracula)
-
-</div>
-
----
-
-## 🌟 Filosofia
-
-> "Tecnologia pode ser leve, criativa e humana.  
-> Quero construir soluções que inspirem outras mulheres a se aventurarem no mundo da programação." 💜
-
----
-
 ## 📫 Contato
 
 Se quiser trocar ideias, colaborar ou apenas conversar sobre tecnologia e cultura, será um prazer! 🌷  
@@ -52,3 +33,8 @@ Se quiser trocar ideias, colaborar ou apenas conversar sobre tecnologia e cultur
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaraCarlenis)
 
 ## Vamos construir algo incrível juntos! 
+
+## 🌟 Filosofia
+
+> "Tecnologia pode ser leve, criativa e humana.  
+> Quero construir soluções que inspirem outras mulheres a se aventurarem no mundo da programação." 💜
