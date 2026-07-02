@@ -28,7 +28,8 @@ Meu nome é **Sara Hurtado** 💜
 
 ## 📫 Contato
 
-Se quiser trocar ideias, colaborar ou apenas conversar sobre tecnologia e cultura, será um prazer! 🌷  
+Se quiser trocar ideias, colaborar ou apenas conversar sobre tecnologia e cultura, será um prazer! 🌷 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-hurtado-cortes/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaraCarlenis)
 
