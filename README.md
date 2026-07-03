@@ -45,4 +45,3 @@ Se quiser trocar ideias, colaborar ou apenas conversar sobre tecnologia e cultur
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnnieDiniz/JohnnieDiniz/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JohnnieDiniz/JohnnieDiniz/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-###
