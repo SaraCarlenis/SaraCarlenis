@@ -1,11 +1,11 @@
 # 🌸 Olá, pessoal! 👋
 
-Meu nome é **Sara Hurtado** 💕  
+Meu nome é **Sara Hurtado** 💜  
 - Atualmente aprendendo **Java** com foco em backend.  
 - Conhecimentos básicos em **JavaScript**.  
 - Fluente em **português** e **espanhol**, **inglês** intermediário (B1).  
 - ✈️ Moro fora do meu país há 8 anos, o que me trouxe experiências culturais incríveis e muito crescimento pessoal.   
-- 🌷 Amo viajar e conhecer novas culturas!  
+- 💕 Amo viajar e conhecer novas culturas!  
 
 ---
 
@@ -26,24 +26,14 @@ Meu nome é **Sara Hurtado** 💕
 
 ---
 
-## 🎮 Estatísticas & Conquistas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraCarlenis&show_icons=true&theme=tokyonight&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraCarlenis&layout=compact&theme=tokyonight&title_color=ff79c6&text_color=f8f8f2)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SaraCarlenis&theme=juicyfresh&margin-w=15&margin-h=15&title=Commits,Followers,Repositories)
-
----
-
 ## 📫 Contato
 
-Se quiser trocar ideias, colaborar ou apenas conversar sobre tecnologia e cultura, será um prazer! 🌸  
+Se quiser trocar ideias, colaborar ou apenas conversar sobre tecnologia e cultura, será um prazer! 🌷 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-hurtado-cortes/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaraCarlenis)
 
----
+## Vamos construir algo incrível juntos! 
 
 ## 🌟 Filosofia
 
