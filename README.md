@@ -35,6 +35,13 @@ Se quiser trocar ideias, colaborar ou apenas conversar sobre tecnologia e cultur
 
 ## Vamos construir algo incrível juntos! 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraCarlenis&show_icons=true&theme=rose_pine)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraCarlenis&layout=compact&theme=rose_pine)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SaraCarlenis&theme=juicyfresh&margin-w=15&margin-h=15)
+
+
 ## 🌟 Filosofia
 
 > "Tecnologia pode ser leve, criativa e humana.  
