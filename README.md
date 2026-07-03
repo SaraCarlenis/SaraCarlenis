@@ -39,6 +39,7 @@ Se quiser trocar ideias, colaborar ou apenas conversar sobre tecnologia e cultur
 > "Tecnologia pode ser leve, criativa e humana.  
 > Quero construir soluções que inspirem outras mulheres a se aventurarem no mundo da programação." 💜
 
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnnieDiniz/JohnnieDiniz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnnieDiniz/JohnnieDiniz/pacman-output/pacman-contribution-graph.svg?game=pacman">
