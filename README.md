@@ -26,21 +26,13 @@ Meu nome é **Sara Hurtado** 💜
 
 ---
 
+## Vamos construir algo incrível juntos!
 ## 📫 Contato
 
 Se quiser trocar ideias, colaborar ou apenas conversar sobre tecnologia e cultura, será um prazer! 🌷 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-hurtado-cortes/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaraCarlenis)
-
-## Vamos construir algo incrível juntos! 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraCarlenis&show_icons=true&theme=rose_pine)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraCarlenis&layout=compact&theme=rose_pine)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SaraCarlenis&theme=juicyfresh&margin-w=15&margin-h=15)
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaraCarlenis) 
 
 ## 🌟 Filosofia
 
