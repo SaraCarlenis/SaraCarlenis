@@ -27,7 +27,7 @@ Meu nome é **Sara Hurtado** 💜
 ---
 
 ## Vamos construir algo incrível juntos!
-## 📫 Contato
+ ***📫 Contato***
 
 Se quiser trocar ideias, colaborar ou apenas conversar sobre tecnologia e cultura, será um prazer! 🌷 
 
