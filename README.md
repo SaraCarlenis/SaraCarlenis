@@ -1,4 +1,7 @@
-# 🌸 Olá, pessoal! 👋
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <span style="color:#1E90FF;">🌸 Olá, pessoal!</span>
+</h1>
 
 Meu nome é **Sara Hurtado** 💜  
 - Atualmente aprendendo **Java** com foco em backend.  
